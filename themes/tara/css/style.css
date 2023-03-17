@@ -3287,3 +3287,22 @@ nav.pager::after {
     margin: 0 0 0px !important;
 }
 /* This is for front-end code*/
+
+.homepage-about{
+  /*border: 1px solid red;*/
+  padding-top: 0px;
+  padding-bottom: 0px;
+
+}
+.homepage-about article {
+  margin: 0;
+  padding: 0;
+  border-bottom: none;
+}
+
+.homepage-about .node-links-container {
+  border: none;
+}
+#block-tara-page-title {
+  display: none;
+}
